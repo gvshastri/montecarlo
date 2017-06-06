@@ -1,3 +1,5 @@
+% code for a basic Monte Carlo simulation in MatLab
+
 length = 0.1;
 nsamples=100000;
 force = 1000+50*rand(nsamples,1);
